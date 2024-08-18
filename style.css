@@ -200,7 +200,7 @@ td {
 td:nth-child(1) { background: hsl(202, 83%, 57%);
   position: relative;
   left: 20px;
-  bottom: 690px;
+  bottom: 740px;
  }
 td:nth-child(2) { background: hwb(230 25% 7%);
   position: relative;
